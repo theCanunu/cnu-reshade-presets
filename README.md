@@ -5,14 +5,12 @@ this is where my reshade presets will go
 I personally Like to have my folders a little different. I'm not entirely sure how reshade handles preset importing, but my folder structure goes a little like this:
 
 ```
-gamedirectory
-│   game.exe    
-|
-└─── reshade
-│   └─── presets
-|   |    └─── cnu_preset.ini
-    └─── shaders
-    └─── textures
++-- gamedirectory    
+  +-- reshade
+  +-- presets
+    +-- cnu_preset.ini
+  +-- shaders
+  +-- textures
 ```
 
 # GAMES
