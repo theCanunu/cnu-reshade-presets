@@ -12,6 +12,11 @@ I personally Like to have my folders a little different. I'm not entirely sure h
     +-- shaders
     +-- textures
 ```
+In each game folder will be:
+- images (inside folder)
+- the preset
+- settings file (in markdown)
+- basic "readme" file on what my goal was.
 
 # GAMES
 ## SnowRunner
