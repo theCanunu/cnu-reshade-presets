@@ -7,10 +7,10 @@ I personally Like to have my folders a little different. I'm not entirely sure h
 ```
 +-- gamedirectory    
   +-- reshade
-  +-- presets
-    +-- cnu_preset.ini
-  +-- shaders
-  +-- textures
+    +-- presets
+      +-- cnu_preset.ini
+    +-- shaders
+    +-- textures
 ```
 
 # GAMES
