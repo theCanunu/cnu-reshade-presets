@@ -1,5 +1,5 @@
 # GAME
-Hide Drivers Hands=** ON
+Hide Drivers Hands= ON
 HIDE KSIVA= ON
 Brightness= 50% (or as close as you can get)
 
